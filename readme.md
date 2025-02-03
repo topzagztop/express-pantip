@@ -31,6 +31,12 @@ npm install cors
 ## Step 6 install prisma
 ```bash
 npx prisma init
-
 npx prisma db push
+```
+
+## Step 7 Auth
+
+```bash
+npm i bcryptjs
+npm i jsonwebtoken
 ```
